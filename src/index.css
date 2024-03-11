@@ -1,6 +1,6 @@
 :root {
-  --primaryColor: #90A959;
-  --secondColor: #E9B872;
+  --primaryColor: #dc9df5;
+  --secondColor: #a06ef1;
   --mainWhite: #fff;
   --mainBlack: #222;
   --mainRed: #C45151;
@@ -19,6 +19,11 @@ body {
 
 h1 {
   margin: 1rem 0;
+  color: white;
+}
+
+p {
+  color: white;
 }
 
 .btn {
