@@ -59,17 +59,18 @@ M-archive에서 사용된 아키텍처와 기술에 대한 설명은 [기술 발
 ### Communication
 | Github | Discord | Notion |
 | ------ | ------- | ------ |
-| ![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | ![Discord](https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg) | ![Notion](https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg) |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50"> |
 
 ### Front-end
 | Html | SASS | JavaScript | React | Recoil | Axios | Prettier | esLint |
 | ---- | ---- | ---------- | ----- | ------ | ----- | -------- | ------ |
-| ![Html](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) | ![SASS](https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg) | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | ![Recoil](https://upload.wikimedia.org/wikipedia/commons/e/ef/Recoil.png) | ![Axios](https://axios-http.com/assets/logo.svg) | ![Prettier](https://prettier.io/icon.png) | ![esLint](https://eslint.org/assets/img/logo.svg) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Recoil.png" width="50"> | <img src="https://axios-http.com/assets/logo.svg" width="50"> | <img src="https://prettier.io/icon.png" width="50"> | <img src="https://eslint.org/assets/img/logo.svg" width="50"> |
 
 ### Deployment
 | AWS S3 | Github Actions |
 | ------ | -------------- |
-| ![AWS S3](https://upload.wikimedia.org/wikipedia/commons/0/05/Amazon_Web_Services_Logo.svg) | ![Github Actions](https://avatars.githubusercontent.com/u/44036562?s=200&v=4) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Amazon_Web_Services_Logo.svg" width="50"> | <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50"> |
+
 
 
 
