@@ -1,103 +1,57 @@
 # M-archive
 
-M-archive es un sitio web de reseñas de películas coreanas que permite a los usuarios compartir sus impresiones desde diferentes perspectivas y comunicarse entre sí.
+M-archive는 다양한 관점에서 한국 영화 리뷰를 공유하고 소통할 수 있는 웹사이트입니다.
 
-## Tabla de Contenidos
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Requisitos Funcionales](#requisitos-funcionales)
-- [Especificación de API](#especificación-de-api)
-- [Presentación Técnica](#presentación-técnica)
-- [Documentación de Pruebas](#documentación-de-pruebas)
-- [Equipo](#equipo)
-- [Licencia](#licencia)
+## 목차
+- [프로젝트 설명](#프로젝트-설명)
+- [설치 방법](#설치-방법)
+- [사용 방법](#사용-방법)
+- [기능 요구 사항](#기능-요구-사항)
+- [API 명세서](#api-명세서)
+- [기술 발표](#기술-발표)
+- [테스트 문서](#테스트-문서)
+- [팀 구성](#팀-구성)
+- [라이선스](#라이선스)
 
-## Descripción del Proyecto
-**Duración del proyecto:** 2023.03.13 - 2023.04.28
+## 프로젝트 설명
+**프로젝트 기간:** 2023.03.13 - 2023.04.28
 
-El objetivo principal de "M-archive" es ofrecer una plataforma donde los usuarios puedan compartir y comentar reseñas de películas coreanas, proporcionando una experiencia rica en interacciones y diversidad de opiniones.
+"M-archive"의 주요 목표는 사용자들이 한국 영화에 대한 리뷰를 공유하고, 다양한 의견을 나눌 수 있는 플랫폼을 제공하는 것입니다.
 
-**Enlace al proyecto:** [M-archive](#)
+**프로젝트 링크:** [M-archive](#)
 
-## Instalación
-Para instalar y configurar el entorno de desarrollo de "M-archive", sigue las instrucciones detalladas en el [manual de servicio](#).
+## 설치 방법
+"M-archive"의 개발 환경을 설치하고 설정하는 방법에 대한 자세한 내용은 [서비스 메뉴얼](#)을 참고하세요.
 
-## Uso
-El sitio web de M-archive permite a los usuarios:
-- Crear cuentas y autenticarse.
-- Publicar reseñas de películas.
-- Interactuar con otros usuarios a través de comentarios.
+## 사용 방법
+M-archive 웹사이트는 사용자들에게 다음과 같은 기능을 제공합니다:
+- 계정 생성 및 인증
+- 영화 리뷰 작성
+- 다른 사용자와의 댓글을 통한 상호작용
 
-Para más detalles sobre cómo utilizar la interfaz de usuario, consulta la [definición de la interfaz de usuario](#).
+사용자 인터페이스 사용법에 대한 더 자세한 정보는 [화면정의서](#)를 참고하세요.
 
-## Requisitos Funcionales
-El proyecto cumple con los requisitos funcionales descritos en el [documento de requisitos del usuario](#).
+## 기능 요구 사항
+이 프로젝트는 [사용자 요구사항 정의서](#)에 명시된 기능 요구 사항을 준수합니다.
 
-## Especificación de API
-Las APIs utilizadas en este proyecto están documentadas en detalle en la [especificación de API](#).
+## API 명세서
+이 프로젝트에서 사용된 API는 [API 명세서](#)에 자세히 문서화되어 있습니다.
 
-## Presentación Técnica
-La arquitectura y las tecnologías empleadas en M-archive se explican en la [presentación técnica](#).
+## 기술 발표
+M-archive에서 사용된 아키텍처와 기술에 대한 설명은 [기술 발표](#)에서 확인할 수 있습니다.
 
-## Documentación de Pruebas
-Los procesos y resultados de las pruebas están documentados en el [documento de pruebas](#).
+## 테스트 문서
+테스트 과정과 결과는 [테스트 문서](#)에 기록되어 있습니다.
 
-## Equipo
-- **Kim Heehwan (FE)**: Responsable del desarrollo del frontend.
-  - **Páginas**:
-    - Mi página de perfil
-    - Centro de atención al cliente
-  - **Características**:
-    - Accordion
-    - Historial de consultas
-    - Hacer una consulta
-- **Moon Sanghui (FE)**: Colaboradora en el desarrollo del frontend.
-  - **Páginas**:
-    - Página de detalles de la película
-    - Servicio LNB
-    - Admin LNB
-    - Cuadro de búsqueda
-    - Configuración del menú de la tabla
-  - **Características**:
-    - Paginación
-    - Clasificación en el menú de la tabla
-- **Seo Jinju (FE)**: Encargada del diseño de las páginas.
-  - **Páginas**:
-    - Página principal
-    - Mi página (perfil)
-    - Página de detalles de la película
-    - Página de lista de reseñas
-  - **Características**:
-    - Configuración de perfil
-    - Configuración de preferencias
-    - CRUD de reseñas
-    - CRUD de comentarios
-    - Diseño de enrutador
-- **Lim Shin Young (FE)**: Desarrolladora frontend.
-  - **Páginas**:
-    - Página principal
-    - Página de inicio de sesión y cierre de sesión
-    - Página de búsqueda
-    - Mi página (me gusta, reseñas, comentarios)
-  - **Características**:
-    - Login con autenticación JWT
-    - Scroll infinito
-    - Funcionalidad de búsqueda de películas
-    - Clasificación por género
-    - Etiquetas de género
-- **Cho Sangwoo (FE)**: Desarrollo de páginas principales.
-  - **Páginas**:
-    - Página de inicio
-    - Página del administrador
-    - Página de gestión de películas
-    - Página de gestión de reseñas
-    - Página de gestión de usuarios
-    - Página de FAQ
-  - **Características**:
-    - Foro
-    - Checkbox
-    - Botones de me gusta y compartir
+## 팀 구성
 
-## Licencia
-Este proyecto se encuentra bajo la Licencia GPLv3.
+| 팀원       | 역할       | 페이지                                  | 기능                                      |
+| ---------- | ---------- | --------------------------------------- | ----------------------------------------- |
+| **김희환** | 프론트엔드 | 마이페이지 고객센터                      | 아코디언, 문의 내역, 문의하기              |
+| **문상희** | 프론트엔드 | 영화 상세 페이지, 서비스 LNB, 어드민 LNB, 검색창, 테이블 메뉴 구성 | 페이지네이션, 테이블 메뉴별 정렬           |
+| **서진주** | 프론트엔드 | 메인 페이지, 마이페이지(프로필), 영화 상세 페이지, 리뷰 목록 페이지 | 프로필 설정, 퍼블릭 설정, 리뷰 및 댓글 CRUD, 라우터 설계 |
+| **임신영** | 프론트엔드 | 메인 페이지, 로그인/로그아웃 페이지, 검색 페이지, 마이페이지(좋아요, 리뷰, 댓글) | JWT 인증 로그인, 무한 스크롤, 영화 검색 기능, 장르별 검색/정렬, 장르 태그 |
+| **조상우** | 프론트엔드 | 시작 페이지, 관리자 페이지, 영화 관리 페이지, 리뷰 관리 페이지, 유저 관리 페이지, FAQ 페이지 | 토글, 체크박스, 좋아요 버튼, 공유 버튼      |
+
+## 라이선스
+이 프로젝트는 GPLv3 라이선스 하에 있습니다.
