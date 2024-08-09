@@ -53,5 +53,32 @@ M-archive에서 사용된 아키텍처와 기술에 대한 설명은 [기술 발
 |  **임신영**  | 프론트엔드 | 메인 페이지, 로그인/로그아웃 페이지, 검색 페이지, 마이페이지(좋아요, 리뷰, 댓글) | JWT 인증 로그인, 무한 스크롤, 영화 검색 기능, 장르별 검색/정렬, 장르 태그 |
 |  **조상우**  | 프론트엔드 | 시작 페이지, 관리자 페이지, 영화 관리 페이지, 리뷰 관리 페이지, 유저 관리 페이지, FAQ 페이지 | 토글, 체크박스, 좋아요 버튼, 공유 버튼      |
 
+
+## 도구
+
+### Communication
+| Github | Discord | Notion |
+| ------ | ------- | ------ |
+| ![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | ![Discord](https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg) | ![Notion](https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg) |
+
+### Front-end
+| Html | SASS | JavaScript | React | Recoil | Axios | Prettier | esLint |
+| ---- | ---- | ---------- | ----- | ------ | ----- | -------- | ------ |
+| ![Html](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) | ![SASS](https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg) | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | ![Recoil](https://upload.wikimedia.org/wikipedia/commons/e/ef/Recoil.png) | ![Axios](https://axios-http.com/assets/logo.svg) | ![Prettier](https://prettier.io/icon.png) | ![esLint](https://eslint.org/assets/img/logo.svg) |
+
+### Deployment
+| AWS S3 | Github Actions |
+| ------ | -------------- |
+| ![AWS S3](https://upload.wikimedia.org/wikipedia/commons/0/05/Amazon_Web_Services_Logo.svg) | ![Github Actions](https://avatars.githubusercontent.com/u/44036562?s=200&v=4) |
+
+
+
+
+
+
+
+
+
+
 ## 라이선스
 이 프로젝트는 GPLv3 라이선스 하에 있습니다.
